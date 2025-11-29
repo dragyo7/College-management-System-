@@ -194,10 +194,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Java Swing for the GUI framework
 - The open-source community for continuous inspiration
 
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
 ---
 
 **⭐ Don't forget to star this repository if you find it helpful!**
